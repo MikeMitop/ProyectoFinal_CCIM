@@ -1,0 +1,17 @@
+# Generated data files
+datos_historicos.csv
+caracteristicas_zonas.csv
+resultados_montecarlo.csv
+
+# Generated graphics
+graficos/
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
